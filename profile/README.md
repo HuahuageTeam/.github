@@ -2,7 +2,7 @@
 **Huahuage (椛椛阁)** is a team that previously focused on developing QQ bots and their plugins. However, we are now reorganizing the team with the goal of creating more widely applicable open-source software in the future. We are committed to contributing to the open-source community and helping others grow through our work.
 
 ## Current Projects
-Our primary project at the moment is **KaChat**, a simple chat software designed for educational purposes. Through the development and operation of KaChat, we aim to help our team members gain valuable experience and knowledge.
+Our primary project at the moment is **CiChat**, a simple chat software designed for educational purposes. Through the development and operation of KaChat, we aim to help our team members gain valuable experience and knowledge.
 
 ## Tech Stack
 - **Backend**: Java + Spring
